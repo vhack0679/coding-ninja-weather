@@ -1,0 +1,21 @@
+body{
+    background-image: url('https://www.shutterstock.com/image-photo/sky-blue-background-cloud-clear-600nw-1386181790.jpg');
+    background-size: cover; 
+     color: white;
+    text-align: center;
+}
+ .section{
+     background-color:#A1B3D2;
+     width: 400px;
+     margin-left: 450px;
+     margin-top: 30px;
+     height: 500px;
+     text-align: center;
+     color:white;
+ }
+ #city-name{
+     color: black;
+ }
+ #weather-container{
+     color: black   ;
+ }
